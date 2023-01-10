@@ -20,3 +20,12 @@ run
 bye
 ```
 
+## Snobol
+
+Files ending in "*.sno"
+
+Donwload snobol4 and go to directory.
+
+```
+./snobol4 hello.sno
+```
